@@ -18,7 +18,7 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
-
+#include <stdio.h>
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 
@@ -97,7 +97,7 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
-
+ printf("Hello world");
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
